@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1424647350 source:d:\github\ed1-mergesort\mergesort\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
