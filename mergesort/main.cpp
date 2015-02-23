@@ -4,6 +4,7 @@
 
 ///Tomas Abril
 ///Allan Patrick
+//top-down
 
 //using namespace std;
 
@@ -48,6 +49,6 @@ int main()
     for (it=vetorfinal.begin(); it<vetorfinal.end(); it++) {
         std::cout << ' ' << *it;
     }
-    std::cout << '\n';
+    std::cout << "\n";
     return 0;
 }
